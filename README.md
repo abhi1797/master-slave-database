@@ -1,6 +1,6 @@
 # Master-Slave-database Replication
 
-# FastAPI Read/Write Split Example
+## FastAPI Read/Write Split Example
 
 This is a simple FastAPI application that:
 - **Writes** data to a **Primary PostgreSQL** database.
