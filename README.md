@@ -1,5 +1,5 @@
 # Master-Slave-database Replication
-
+🔗 **Medium Blog link :** [Blog Link] (https://medium.com/@abhijeet.sarkar112/how-i-set-up-postgresql-streaming-replication-on-windows-primary-replica-on-same-machine-e0ad35e029db)
 ## FastAPI Read/Write Split Example
 
 This is a simple FastAPI application that:
